@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Liardnos's GitHub stats](https://github-readme-stats.vercel.app/api?username=liardnos&show_icons=true&theme=dracula&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liardnos&layout=compact&theme=dracula)
+![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=tokyonight&count_private=true&hide=prs&custom_title=Liardnos%27%20GitHub%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mderoulou&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages)
 <!--
 
 Here are some ideas to get you started:

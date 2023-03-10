@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Totaly not Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=dracula&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mderoulou&layout=compact&theme=dracula)
+![Liardnos's GitHub stats](https://github-readme-stats.vercel.app/api?username=liardnos&show_icons=true&theme=dracula&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liardnos&layout=compact&theme=dracula)
 <!--
 
 Here are some ideas to get you started:

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=dracula&count_private=true&hide=prs)
+![Totaly not Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=dracula&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mderoulou&layout=compact&theme=dracula)
 <!--
 

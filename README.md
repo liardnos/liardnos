@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**liardnos/liardnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=dracula&count_private=true&hide=prs) 
+![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=dracula&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mderoulou&layout=compact&theme=dracula)
+<!--
 
 Here are some ideas to get you started:
 

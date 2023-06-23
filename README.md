@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=tokyonight&count_private=true&hide=prs&custom_title=Totaly%20not%20Mderoulou's%20%20GitHub%20Stats)
+![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=liardnos&show_icons=true&theme=tokyonight&count_private=true&hide=prs&custom_title=Totaly%20not%20Mderoulou's%20%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liardnos&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages)
 <!--
 
